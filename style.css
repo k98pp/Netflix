@@ -1,0 +1,125 @@
+body{
+    background-color    :black;
+    
+    
+}
+.body{
+    background-image: url("netflixbg.jpg");
+    /* width: 1340px; */
+    height:660px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.button{
+    height: 30px;
+    border-radius:10px;
+    border:none;
+    background-color: red;
+    color: white;
+    justify-content:space-around;
+}
+.mainhead{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    justify-content: center;
+}
+.input{
+    background-color: rgba(0, 0,0, 0.5);
+    color: white;
+    padding: 10px;
+    width: 300px;
+    margin: 10px;   
+}
+.button2{
+    background-color: red;
+    height: 40px;
+    width: 200px;
+    color: white;
+    font-size: 20px;
+}
+.secondhead{
+    background-color: black;
+    display: flex;
+    color: white;
+    /* margin-top: 5px; */
+    border-color:gray;
+    border-style: solid;
+    justify-content: space-between;
+    font-size: x-large;
+    gap: 20px;
+    
+    
+}
+.h1{
+    margin: 100px;
+}
+.thirdhead{
+    display: flex;
+    color: white;
+    font-size: 30px;
+    justify-content: space-between;
+    background-color: black;
+    border-color:gray;
+    border-style: solid;
+    /* margin: 5px; */
+    
+    
+
+}
+.div1{
+    margin: right;
+}
+.fourthHead{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+    background-color: black;
+    border-color:gray;
+    border-style: solid;
+
+}
+.fifthhead{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+    color: white;
+    /* margin:5px; */
+    border-color:gray;
+    border-style: solid;
+}
+.sixhead{
+     background-color: black;
+    color: white;
+    font-size: x-large;
+    justify-content:center;
+    display: flex;
+    border-color:gray;
+    border-style: solid;
+}
+.button3{
+    background-color:lightslategrey;
+    width: 600px;
+    border-color:gray;
+    height: 60px;
+    color: white;
+    font-size: larger;
+    display: flex;
+    justify-content: space-between;
+}
+h5{
+    color: white;
+    font-size:large;
+}
+.sevenhead{
+    color: aliceblue;
+    font-size: medium;
+    border-color:gray ;
+    border-style: solid;
+    display: flex;
+    justify-content: space-between;
+}
